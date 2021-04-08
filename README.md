@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi 👋 I'm Maziyar Bahramian
+### 😎 I’m currently learning Android Development
+### 💬 Ask me about Java, Kotlin, Android development.
+### You can reach me via Maziyar.Bahramian@gmail.com
 
 <!--
 **maziyarbahramian/maziyarbahramian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
